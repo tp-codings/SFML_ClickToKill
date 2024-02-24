@@ -5,7 +5,7 @@ A simple click to kill game. Some rectangles with varoius sizes and speeds fall 
 
 | Personal Rating | Year of Development | Languages | Tools | Type of Application |
 | --- | --- | --- | --- | --- |
-| ⭐️ (1/5) | 2022 | C++ | SFML | Simulation |
+| ⭐️ (1/5) | 2022 | C++ | SFML | Game |
 
 # Getting Started
 ## Prerequisites and basic information
