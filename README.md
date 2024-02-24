@@ -1,5 +1,5 @@
 # ClickToKill
-A simple click to kill game. Some rectangles with varoius sizes and speeds fall from the top of the screen. The player has to click the rectangles, before they reach the bottom.
+A simple click to kill game. Some rectangles with varoius sizes and speeds fall from the top of the screen. The player has to click the rectangles, before they reach the bottom (based on the [SFML Tutorial](https://www.youtube.com/watch?v=BySDfVNljG8&list=PL6xSOsbVA1eb_QqMTTcql_3PdOiE928up) by Suraj Sharma.
 
 ## Project Overview
 
